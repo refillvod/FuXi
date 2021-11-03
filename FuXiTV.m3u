@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=290288,CODECS="mp4a.40.5,avc1.42c00b",RESOLUTION=256x144,FRAME-RATE=15,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Music",1HD Music Television (1080p) [Not 24/7]
 https://xurl.es/rum7v
 
 
